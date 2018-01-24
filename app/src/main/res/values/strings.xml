@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My App</string>
+
+    <string-array name="messages">
+
+        <item>Checking your account balance has never been this easy. Simply open the MyApp.</item>
+        <item>Earn Rewards Points by purchasing offers, and redeem your Points to buy special packs.</item>
+        <item>Get notified about all our latest offerings right from MyApp. Buying is just a few easy steps.</item>
+        <item>Get in touch with our customer managers anytime for support and assistance with your GP connection.</item>
+        <item>What are your passions? You personalize it by using the features you love the most!</item>
+    </string-array>
+
+</resources>
